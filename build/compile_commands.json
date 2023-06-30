@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jeremy/Desktop/projects/tutorials/opengl-tutorial/build",
+  "command": "/usr/bin/g++   -I.././glfw/include  -g   -o CMakeFiles/opengl_tutorial.dir/main.cpp.o -c /home/jeremy/Desktop/projects/tutorials/opengl-tutorial/main.cpp",
+  "file": "/home/jeremy/Desktop/projects/tutorials/opengl-tutorial/main.cpp"
+}
+]
